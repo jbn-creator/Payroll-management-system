@@ -22,12 +22,12 @@ LCD Display Interface
 Two-line LCD dynamically showing current payroll record.
 
 Structured layout:
-
+```
 +----------------+
 |^A BCDE £££££.££|
 |v1234567 FGHIJKL|
 +----------------+
-
+```
 
 Scroll navigation via UP/DOWN buttons.
 
